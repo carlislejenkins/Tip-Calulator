@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipper*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipper** is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Linking github to xcode
 
 ## License
 
